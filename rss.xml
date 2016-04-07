@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[AB]]></title>
         <description><![CDATA[AB]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/ab/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Apr 2016 09:11:38 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 07 Apr 2016 09:11:54 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ab/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Aykut Berber</p>]]></description>
-            <link>undefinedca52227e-ac7b-49d9-94a8-f88a312980ec/index.html</link>
+            <link>https://thegrid.ai/ab/ca52227e-ac7b-49d9-94a8-f88a312980ec/index.html</link>
             <guid isPermaLink="false">ca52227e-ac7b-49d9-94a8-f88a312980ec</guid>
-            <pubDate>Thu, 07 Apr 2016 09:11:28 GMT</pubDate>
+            <pubDate>Thu, 07 Apr 2016 09:11:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
